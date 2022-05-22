@@ -1,0 +1,25 @@
+-----User Stories Administrator-----
+
+As an administrator, I would like to be able to view all users that are registered on the website.
+
+As an administrator, I would like to be able to delete any user I want only by typing their email.
+
+
+
+-----User Stories Utilizatori-----
+
+As a user, I would like to be able to access the platform.
+
+As a user, I would like to be able to setup a profile, consisting of email, password, phone number, name, country, birthday and family members.
+
+As a user, I would like to be able to write about me and add my family members names.
+
+As a user, I would like to be able to view suggested users based on my location, together with their name, family status and date of birth.
+
+As a user, I would like to be able to search for other users based on their name.
+
+As a user, I would like to be able to create an alert, consisting of name, birthday, country and family members, if I can't find the user I am looking for.
+
+As a user, I would like to be able to contact other user if I believe is the person I am looking for.
+
+
