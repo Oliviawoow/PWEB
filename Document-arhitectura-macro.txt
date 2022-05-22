@@ -1,0 +1,16 @@
+-----System architecture-----
+
+Components:
+	- MySQL database for storing informations localy
+	- Frontend
+	- Backend
+	- Notification system to notify users of certain events
+	
+The client is represented by the application users, as well as by the application administrator.
+
+In terms of functionality, we propose that the application can support a considerable number of users. Thus, for the backend part we will use MySQL database, and for the frontend part JavaScript and HTML / CSS / React.
+
+Used APIs:
+	- one for creating the connection with the database
+	- one for the messages part -> sockets
+	- one for the alert system
