@@ -14,3 +14,4 @@ Used APIs:
 	- one for creating the connection with the database
 	- one for the messages part -> sockets
 	- one for the alert system
+
